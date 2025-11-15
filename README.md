@@ -1,6 +1,6 @@
 # Tweet Text Classification with scikit-learn
 
-Αυτό το repository περιέχει ένα Jupyter Notebook (`upologistika2.ipynb`) για ταξινόμηση κειμένου (tweets) σε κατηγορίες, χρησιμοποιώντας κλασικά μοντέλα machine learning (Naive Bayes, Logistic Regression, Linear SVM) και τεχνικές όπως TF–IDF και SMOTE για αντιμετώπιση class imbalance.
+Αυτό το repository περιέχει ένα Jupyter Notebook (`sentiment.ipynb`) για ταξινόμηση κειμένου (tweets) σε κατηγορίες, χρησιμοποιώντας κλασικά μοντέλα machine learning (Naive Bayes, Logistic Regression, Linear SVM) και τεχνικές όπως TF–IDF και SMOTE για αντιμετώπιση class imbalance.
 
 ## Περιγραφή
 
